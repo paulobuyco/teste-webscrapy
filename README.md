@@ -1,4 +1,4 @@
-# Teste para Back-end
+# Teste para Web Scrapy
 
 Este teste é apresentado aos candidatos as vagas de desenvolvimento back-end, o objetivo é avaliar suas habilidades de desenvolvimento e boas práticas.
 
